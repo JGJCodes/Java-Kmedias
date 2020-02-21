@@ -1,0 +1,11 @@
+Algoritmo K-Medias
+
+1. Leer núm. total de puntos.
+2. Leer las coordenadas de los puntos.
+3. Leer el núm. total (n) de grupos.
+4. Seleccionar de manera aleatoria los n centroides.
+5. Calcular distancia de los puntos a los centroides.
+6. Seleccionar los centroides de cada uno de los puntos.
+7. Calcular los nuevos centroides.
+8. Si los nuevos centroides son diferentes a los centroides anteriores entonces continuar en el punto 5.
+9. Mostrar los puntos agrupados.
